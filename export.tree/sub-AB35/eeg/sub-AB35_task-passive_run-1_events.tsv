@@ -1,0 +1,33 @@
+onset	duration	sample	trial_type	response_time	stim_file	value
+6.9420000000	n/a	3471	task start	n/a	n/a	9
+12.3220000000	n/a	6161	cue	n/a	n/a	1
+23.1320000000	n/a	11566	cue	n/a	n/a	1
+30.1020000000	n/a	15051	cue	n/a	n/a	1
+38.7060000000	n/a	19353	cue	n/a	n/a	1
+45.6860000000	n/a	22843	cue	n/a	n/a	1
+53.0320000000	n/a	26516	cue	n/a	n/a	1
+61.6520000000	n/a	30826	cue	n/a	n/a	1
+71.3520000000	n/a	35676	cue	n/a	n/a	1
+80.7660000000	n/a	40383	cue	n/a	n/a	1
+90.0060000000	n/a	45003	cue	n/a	n/a	1
+97.5720000000	n/a	48786	cue	n/a	n/a	1
+104.6560000000	n/a	52328	cue	n/a	n/a	1
+113.5060000000	n/a	56753	cue	n/a	n/a	1
+122.0360000000	n/a	61018	cue	n/a	n/a	1
+129.5120000000	n/a	64756	cue	n/a	n/a	1
+137.3060000000	n/a	68653	cue	n/a	n/a	1
+145.8360000000	n/a	72918	cue	n/a	n/a	1
+152.9420000000	n/a	76471	cue	n/a	n/a	1
+160.4320000000	n/a	80216	cue	n/a	n/a	1
+168.1120000000	n/a	84056	cue	n/a	n/a	1
+175.5360000000	n/a	87768	cue	n/a	n/a	1
+184.5560000000	n/a	92278	cue	n/a	n/a	1
+191.4320000000	n/a	95716	cue	n/a	n/a	1
+199.7720000000	n/a	99886	cue	n/a	n/a	1
+206.8760000000	n/a	103438	cue	n/a	n/a	1
+214.8660000000	n/a	107433	cue	n/a	n/a	1
+222.0760000000	n/a	111038	cue	n/a	n/a	1
+232.2560000000	n/a	116128	cue	n/a	n/a	1
+241.2960000000	n/a	120648	cue	n/a	n/a	1
+248.6460000000	n/a	124323	cue	n/a	n/a	1
+266.0280000000	n/a	133014	task end	n/a	n/a	10

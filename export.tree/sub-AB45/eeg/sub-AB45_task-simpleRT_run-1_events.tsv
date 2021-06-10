@@ -1,0 +1,163 @@
+onset	duration	sample	trial_type	response_time	stim_file	value
+6.9840000000	n/a	3492	task start	n/a	n/a	9
+12.3040000000	n/a	6152	cue	n/a	n/a	1
+14.1980000000	n/a	7099	go	n/a	n/a	2
+14.4280000000	n/a	7214	button press	n/a	n/a	5
+20.8740000000	n/a	10437	cue	n/a	n/a	1
+22.3940000000	n/a	11197	go	n/a	n/a	2
+22.6980000000	n/a	11349	button press	n/a	n/a	5
+28.9140000000	n/a	14457	cue	n/a	n/a	1
+31.0840000000	n/a	15542	go	n/a	n/a	2
+31.4820000000	n/a	15741	button press	n/a	n/a	5
+38.8840000000	n/a	19442	cue	n/a	n/a	1
+40.5400000000	n/a	20270	go	n/a	n/a	2
+40.8260000000	n/a	20413	button press	n/a	n/a	5
+46.3340000000	n/a	23167	cue	n/a	n/a	1
+53.5800000000	n/a	26790	cue	n/a	n/a	1
+55.4000000000	n/a	27700	go	n/a	n/a	2
+55.6260000000	n/a	27813	button press	n/a	n/a	5
+60.6240000000	n/a	30312	cue	n/a	n/a	1
+62.1600000000	n/a	31080	go	n/a	n/a	2
+62.4740000000	n/a	31237	button press	n/a	n/a	5
+69.0040000000	n/a	34502	cue	n/a	n/a	1
+70.8340000000	n/a	35417	go	n/a	n/a	2
+71.0660000000	n/a	35533	button press	n/a	n/a	5
+77.2740000000	n/a	38637	cue	n/a	n/a	1
+79.7940000000	n/a	39897	go	n/a	n/a	2
+80.1540000000	n/a	40077	button press	n/a	n/a	5
+85.5900000000	n/a	42795	cue	n/a	n/a	1
+87.1340000000	n/a	43567	go	n/a	n/a	2
+87.4180000000	n/a	43709	button press	n/a	n/a	5
+93.0700000000	n/a	46535	cue	n/a	n/a	1
+101.3840000000	n/a	50692	cue	n/a	n/a	1
+102.9100000000	n/a	51455	go	n/a	n/a	2
+103.1460000000	n/a	51573	button press	n/a	n/a	5
+109.1540000000	n/a	54577	cue	n/a	n/a	1
+110.8340000000	n/a	55417	go	n/a	n/a	2
+111.0660000000	n/a	55533	button press	n/a	n/a	5
+117.0200000000	n/a	58510	cue	n/a	n/a	1
+118.9140000000	n/a	59457	go	n/a	n/a	2
+119.2100000000	n/a	59605	button press	n/a	n/a	5
+124.4700000000	n/a	62235	cue	n/a	n/a	1
+126.1200000000	n/a	63060	go	n/a	n/a	2
+126.3620000000	n/a	63181	button press	n/a	n/a	5
+132.3200000000	n/a	66160	cue	n/a	n/a	1
+133.8640000000	n/a	66932	go	n/a	n/a	2
+134.1700000000	n/a	67085	button press	n/a	n/a	5
+139.5940000000	n/a	69797	cue	n/a	n/a	1
+141.3740000000	n/a	70687	go	n/a	n/a	2
+141.7860000000	n/a	70893	button press	n/a	n/a	5
+146.6200000000	n/a	73310	cue	n/a	n/a	1
+154.5000000000	n/a	77250	cue	n/a	n/a	1
+156.0200000000	n/a	78010	go	n/a	n/a	2
+156.2340000000	n/a	78117	button press	n/a	n/a	5
+162.1300000000	n/a	81065	cue	n/a	n/a	1
+163.6500000000	n/a	81825	go	n/a	n/a	2
+163.8820000000	n/a	81941	button press	n/a	n/a	5
+169.9740000000	n/a	84987	cue	n/a	n/a	1
+178.1640000000	n/a	89082	cue	n/a	n/a	1
+179.7300000000	n/a	89865	go	n/a	n/a	2
+179.9620000000	n/a	89981	button press	n/a	n/a	5
+185.2140000000	n/a	92607	cue	n/a	n/a	1
+186.9200000000	n/a	93460	go	n/a	n/a	2
+187.1940000000	n/a	93597	button press	n/a	n/a	5
+193.8540000000	n/a	96927	cue	n/a	n/a	1
+195.4800000000	n/a	97740	go	n/a	n/a	2
+195.7220000000	n/a	97861	button press	n/a	n/a	5
+201.8000000000	n/a	100900	cue	n/a	n/a	1
+203.4800000000	n/a	101740	go	n/a	n/a	2
+203.7220000000	n/a	101861	button press	n/a	n/a	5
+208.9800000000	n/a	104490	cue	n/a	n/a	1
+211.3440000000	n/a	105672	go	n/a	n/a	2
+211.6260000000	n/a	105813	button press	n/a	n/a	5
+219.3340000000	n/a	109667	cue	n/a	n/a	1
+221.1340000000	n/a	110567	go	n/a	n/a	2
+221.4500000000	n/a	110725	button press	n/a	n/a	5
+227.2500000000	n/a	113625	cue	n/a	n/a	1
+234.4740000000	n/a	117237	cue	n/a	n/a	1
+236.0400000000	n/a	118020	go	n/a	n/a	2
+236.2660000000	n/a	118133	button press	n/a	n/a	5
+244.5400000000	n/a	122270	cue	n/a	n/a	1
+246.1200000000	n/a	123060	go	n/a	n/a	2
+246.3620000000	n/a	123181	button press	n/a	n/a	5
+252.8640000000	n/a	126432	cue	n/a	n/a	1
+254.5240000000	n/a	127262	go	n/a	n/a	2
+254.7460000000	n/a	127373	button press	n/a	n/a	5
+263.2600000000	n/a	131630	cue	n/a	n/a	1
+264.8300000000	n/a	132415	go	n/a	n/a	2
+265.0980000000	n/a	132549	button press	n/a	n/a	5
+270.5500000000	n/a	135275	cue	n/a	n/a	1
+272.2640000000	n/a	136132	go	n/a	n/a	2
+272.5060000000	n/a	136253	button press	n/a	n/a	5
+278.1240000000	n/a	139062	cue	n/a	n/a	1
+285.2840000000	n/a	142642	cue	n/a	n/a	1
+286.8340000000	n/a	143417	go	n/a	n/a	2
+287.1140000000	n/a	143557	button press	n/a	n/a	5
+292.3700000000	n/a	146185	cue	n/a	n/a	1
+293.9340000000	n/a	146967	go	n/a	n/a	2
+294.1380000000	n/a	147069	button press	n/a	n/a	5
+301.3040000000	n/a	150652	cue	n/a	n/a	1
+302.8640000000	n/a	151432	go	n/a	n/a	2
+303.0660000000	n/a	151533	button press	n/a	n/a	5
+308.3500000000	n/a	154175	cue	n/a	n/a	1
+310.2740000000	n/a	155137	go	n/a	n/a	2
+310.4900000000	n/a	155245	button press	n/a	n/a	5
+315.6040000000	n/a	157802	cue	n/a	n/a	1
+317.1300000000	n/a	158565	go	n/a	n/a	2
+317.3860000000	n/a	158693	button press	n/a	n/a	5
+322.9400000000	n/a	161470	cue	n/a	n/a	1
+324.5600000000	n/a	162280	go	n/a	n/a	2
+324.7780000000	n/a	162389	button press	n/a	n/a	5
+333.8700000000	n/a	166935	cue	n/a	n/a	1
+341.3740000000	n/a	170687	cue	n/a	n/a	1
+342.9840000000	n/a	171492	go	n/a	n/a	2
+343.2580000000	n/a	171629	button press	n/a	n/a	5
+348.7240000000	n/a	174362	cue	n/a	n/a	1
+350.2640000000	n/a	175132	go	n/a	n/a	2
+350.6180000000	n/a	175309	button press	n/a	n/a	5
+356.0060000000	n/a	178003	cue	n/a	n/a	1
+357.8700000000	n/a	178935	go	n/a	n/a	2
+358.1380000000	n/a	179069	button press	n/a	n/a	5
+363.3060000000	n/a	181653	cue	n/a	n/a	1
+365.1100000000	n/a	182555	go	n/a	n/a	2
+365.3220000000	n/a	182661	button press	n/a	n/a	5
+371.7060000000	n/a	185853	cue	n/a	n/a	1
+373.2360000000	n/a	186618	go	n/a	n/a	2
+373.5460000000	n/a	186773	button press	n/a	n/a	5
+380.2300000000	n/a	190115	cue	n/a	n/a	1
+387.7860000000	n/a	193893	cue	n/a	n/a	1
+389.8000000000	n/a	194900	go	n/a	n/a	2
+390.0100000000	n/a	195005	button press	n/a	n/a	5
+395.1200000000	n/a	197560	cue	n/a	n/a	1
+396.6600000000	n/a	198330	go	n/a	n/a	2
+396.8740000000	n/a	198437	button press	n/a	n/a	5
+403.0060000000	n/a	201503	cue	n/a	n/a	1
+404.5500000000	n/a	202275	go	n/a	n/a	2
+404.7460000000	n/a	202373	button press	n/a	n/a	5
+409.9400000000	n/a	204970	cue	n/a	n/a	1
+411.5860000000	n/a	205793	go	n/a	n/a	2
+411.8180000000	n/a	205909	button press	n/a	n/a	5
+417.2560000000	n/a	208628	cue	n/a	n/a	1
+419.3860000000	n/a	209693	go	n/a	n/a	2
+419.6100000000	n/a	209805	button press	n/a	n/a	5
+428.4860000000	n/a	214243	cue	n/a	n/a	1
+430.0400000000	n/a	215020	go	n/a	n/a	2
+430.2980000000	n/a	215149	button press	n/a	n/a	5
+437.5160000000	n/a	218758	cue	n/a	n/a	1
+444.9400000000	n/a	222470	cue	n/a	n/a	1
+446.5860000000	n/a	223293	go	n/a	n/a	2
+446.7940000000	n/a	223397	button press	n/a	n/a	5
+452.3260000000	n/a	226163	cue	n/a	n/a	1
+454.0900000000	n/a	227045	go	n/a	n/a	2
+454.2980000000	n/a	227149	button press	n/a	n/a	5
+461.5760000000	n/a	230788	cue	n/a	n/a	1
+463.3200000000	n/a	231660	go	n/a	n/a	2
+463.5300000000	n/a	231765	button press	n/a	n/a	5
+472.7300000000	n/a	236365	cue	n/a	n/a	1
+474.3100000000	n/a	237155	go	n/a	n/a	2
+474.5380000000	n/a	237269	button press	n/a	n/a	5
+481.6160000000	n/a	240808	cue	n/a	n/a	1
+488.8360000000	n/a	244418	cue	n/a	n/a	1
+490.8060000000	n/a	245403	go	n/a	n/a	2
+490.9860000000	n/a	245493	button press	n/a	n/a	5
+506.9240000000	n/a	253462	task end	n/a	n/a	10
